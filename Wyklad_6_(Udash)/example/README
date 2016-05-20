@@ -1,0 +1,3 @@
+Compilation: `sbt compile`
+Run: `sbt run`
+Access: http://127.0.0.1:8080
